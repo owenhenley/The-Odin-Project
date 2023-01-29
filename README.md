@@ -8,6 +8,8 @@
 
 <br/>
 
-## Javascript Track
+## Full-Stack Javascript Track
+
+## Projects
 
 <br\>
